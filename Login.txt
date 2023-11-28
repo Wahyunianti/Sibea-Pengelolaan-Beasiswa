@@ -1,0 +1,7 @@
+Admin :
+Username -> admin
+Password -> admin
+
+Penguji :
+Username -> penguji
+Password -> penguji
